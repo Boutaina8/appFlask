@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Application Flask Sécurisée avec Pipeline CI/CD
 
 Ce projet implémente une application web Flask avec un pipeline CI/CD sécurisé utilisant Jenkins, Ansible et Git.
@@ -72,3 +73,6 @@ L'application implémente plusieurs mesures de sécurité :
 - Configuration sécurisée des cookies
 - Pare-feu configuré
 - Isolation des processus
+=======
+# appFlask
+>>>>>>> 6c9d8f902c6dc7f8a382b1a2e0ab909d907ea887
